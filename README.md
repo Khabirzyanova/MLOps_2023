@@ -19,9 +19,9 @@
 
 У меня установлена miniconda (https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html), поэтому команды следующие:
 
-`conda create --name fastapi_env python=3.11`
+`conda create --name [new_env] python=3.11`
 
-`conda activate fastapi_env`
+`conda activate [new_env]`
 
 
 ### Устанавливаем необходимые пакеты
