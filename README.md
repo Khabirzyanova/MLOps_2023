@@ -15,6 +15,7 @@
 * [1 балл] Swagger – Есть документация API (Swagger)
 * [2 балла] – Реализация и REST API, и gRPC
 
+## Реализация с помощью FastAPI
 ### Создаем новое виртуальное окружение
 
 У меня установлена miniconda (https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html), поэтому команды следующие:
@@ -28,3 +29,6 @@
 Файл requirements.txt содержит все необходимые зависимости. Для их загрузки воспользуйтесь командой:
 
 `pip install -r requirements.txt`
+
+
+## Реализация с помощью gRPC
