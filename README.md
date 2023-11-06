@@ -31,7 +31,10 @@
 `pip install -r requirements_fastapi.txt`
 
 
-## Реализация с помощью gRPC
+## Реализация с помощью gRPC 
+
+https://github.com/roboflow/deploy-models-with-grpc-pytorch-asyncio/tree/main
+
 ### Создаем новое виртуальное окружение
 
 У меня установлена miniconda (https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html), поэтому команды следующие:
