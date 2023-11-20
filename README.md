@@ -21,7 +21,7 @@ https://github.com/testdrivenio/fastapi-ml
 
 ### Для запуска необходимо:
 
-1. Склонировать репозиторий и перейти в папку hw1/fast-api:
+1. Склонировать репозиторий и перейти в папку hw1/fastapi-ml/:
 
 ```bash
 $ git clone git@github.com:Khabirzyanova/MLOps_2023.git
@@ -34,7 +34,8 @@ $ conda create --name [new_env] python=3.11
 $ conda activate [new_env]
 (new_env)$ pip install -r requirements.txt
 ```
-4. 
+
+3. 
 
 ### Создаем новое виртуальное окружение
 
@@ -54,6 +55,22 @@ $ conda activate [new_env]
 ## Реализация с помощью gRPC 
 
 https://github.com/roboflow/deploy-models-with-grpc-pytorch-asyncio/tree/main
+
+### Для запуска необходимо:
+
+1. Склонировать репозиторий и перейти в папку hw1/grpc-ml/:
+
+```bash
+$ git clone git@github.com:Khabirzyanova/MLOps_2023.git
+$ cd hw1/grpc-ml/
+```
+
+2. Создать новое виртуальное окружение (приведен пример для miniconda) и уставновить все необходимые зависимости из requirements.txt:
+```bash
+$ conda create --name [new_env] python=3.11
+$ conda activate [new_env]
+(new_env)$ pip install -r requirements.txt
+```
 
 ### Создаем новое виртуальное окружение
 
