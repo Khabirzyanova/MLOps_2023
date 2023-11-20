@@ -25,7 +25,7 @@ https://github.com/testdrivenio/fastapi-ml
 
 ```bash
 $ git clone git@github.com:Khabirzyanova/MLOps_2023.git
-$ cd hw1/fastapi-ml
+$ cd hw1/fastapi-ml/
 ```
 
 2. Создать новое виртуальное окружение (приведен пример для miniconda) и уставновить все необходимые зависимости из requirements.txt:
