@@ -35,7 +35,10 @@ $ conda activate [new_env]
 (new_env)$ pip install -r requirements.txt
 ```
 
-3. 
+3. Для запуска приложения на сервере:
+```bash
+(new_env)$ uvicorn main:app --reload --workers 1 --host 0.0.0.0 --port 8008
+```
 
 ### Создаем новое виртуальное окружение
 
