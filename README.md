@@ -23,7 +23,7 @@ https://github.com/testdrivenio/fastapi-ml
 
 1. Склонировать репозиторий и перейти в папку hw1/fast-api:
 
-```console
+```
 git clone git@github.com:Khabirzyanova/MLOps_2023.git
 
 ```
