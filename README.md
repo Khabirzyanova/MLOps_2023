@@ -19,6 +19,14 @@
 
 https://github.com/testdrivenio/fastapi-ml
 
+Для запуска необходимо:
+
+1. Склонировать репозиторий и перейти в папку hw1/fast-api:
+`git clone`
+
+3. Создать новое виртуальное окружение и уставновить все необходимые зависимости из requirements_fastapi.txt:
+4. 
+
 ### Создаем новое виртуальное окружение
 
 У меня установлена miniconda (https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html), поэтому команды следующие:
