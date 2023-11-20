@@ -22,10 +22,14 @@ https://github.com/testdrivenio/fastapi-ml
 Для запуска необходимо:
 
 1. Склонировать репозиторий и перейти в папку hw1/fast-api:
-`git clone`
 
-3. Создать новое виртуальное окружение и уставновить все необходимые зависимости из requirements_fastapi.txt:
-4. 
+```console
+git clone git@github.com:Khabirzyanova/MLOps_2023.git
+
+```
+
+2. Создать новое виртуальное окружение и уставновить все необходимые зависимости из requirements_fastapi.txt:
+3. 
 
 ### Создаем новое виртуальное окружение
 
