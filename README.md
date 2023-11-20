@@ -23,13 +23,13 @@ https://github.com/testdrivenio/fastapi-ml
 
 1. Склонировать репозиторий и перейти в папку hw1/fast-api:
 
-```console
+```bash
 $ git clone git@github.com:Khabirzyanova/MLOps_2023.git
 $ cd hw1/fastapi-ml
 ```
 
 2. Создать новое виртуальное окружение (приведен пример для miniconda) и уставновить все необходимые зависимости из requirements.txt:
-```console
+```bash
 $ conda create --name [new_env] python=3.11
 $ conda activate [new_env]
 (new_env)$ pip install -r requirements.txt
